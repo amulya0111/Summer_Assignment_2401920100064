@@ -1,0 +1,3 @@
+git add .
+git commit -m "Added Day 1 problem 2"
+git push origin main
